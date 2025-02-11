@@ -37,7 +37,6 @@ Foundation Models as Commodities:
 Efficient training and open-source frameworks will make powerful models widely accessible, akin to utilities like cloud storage.
 
 Focus on Applications:
-
 The value chain will shift toward solving niche business problems (e.g., healthcare diagnostics, supply chain optimization) rather than model development.
 
 Hardware Evolution:
